@@ -12,6 +12,6 @@
     "@octokit/rest": "^16.28.2",
     "fs-extra": "^8.0.1",
     "mongodb": "^3.2.7",
-    "nodegit": "^0.24.3"
+    "nodegit": "^0.27.0"
   }
 }
